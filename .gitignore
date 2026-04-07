@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+Lib/
+Scripts/
+pyvenv.cfg
+
+# IDE
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# Local database
+*.db
+
+# Temporary reports
+reports/
